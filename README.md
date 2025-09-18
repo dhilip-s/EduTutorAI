@@ -18,3 +18,5 @@ Features:
 Simple, interactive web interface for learning and quiz generation
 AI-generated personalized explanations and quizzes
 Shareable public URL via Gradio (share=True)
+
+ Running on public URL: https://e4c0e6f510eb97d0ed.gradio.live
