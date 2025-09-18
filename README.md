@@ -19,4 +19,4 @@ Simple, interactive web interface for learning and quiz generation
 AI-generated personalized explanations and quizzes
 Shareable public URL via Gradio (share=True)
 
- Running on public URL: https://e4c0e6f510eb97d0ed.gradio.live
+ Running on public URL: https://d90d6c483a37c0642d.gradio.live
