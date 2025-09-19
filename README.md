@@ -21,4 +21,4 @@ Shareable public URL via Gradio (share=True)
 
  Demo video URL: https://drive.google.com/file/d/1WOQJt08cCVgUVZFy0Y1sbAw9Ar-AsBT2/view?usp=drivesdk
 
- Git Clone : 
+ Git Clone : https://github.com/dhilip-s/EduTutorAI
