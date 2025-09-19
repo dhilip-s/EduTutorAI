@@ -19,4 +19,6 @@ Simple, interactive web interface for learning and quiz generation
 AI-generated personalized explanations and quizzes
 Shareable public URL via Gradio (share=True)
 
- Running on public URL: https://d90d6c483a37c0642d.gradio.live
+ Demo video URL: https://drive.google.com/file/d/1WOQJt08cCVgUVZFy0Y1sbAw9Ar-AsBT2/view?usp=drivesdk
+
+ Git Clone : 
